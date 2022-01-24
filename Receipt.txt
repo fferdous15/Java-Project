@@ -1,0 +1,10 @@
+
+This is your reciept:
+Name: Yamaha Grand Piano.
+Model: GB1K.
+Total Price: 375000tk
+
+This is your receipt:
+Name: Yamaha.
+Model: Pacifica.
+Total Price: 390000tk
